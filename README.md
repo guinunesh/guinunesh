@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Guilherme Henriques</h1>
+<p>
+Explorando o mundo da informática, transformando desafios em soluções. A
+programação ocorreu na minha vida de forma espontânea, se tornando uma paixão, e minha
+trajetória profissional é um reflexo disso.
+</p>
+<div>
+<p align="left">
+🎓    Cursando Análise e Desenvolvimento de Sistemas;
+</p>
+<p>
+🌱   No momento estou aprendendo sobre JavaScript, HTML, CSS
+</p>
+<p align="left">
+🔰    Analista de dados e suporte técnico.
+</p>
+</div>
 
-<!--
-**guinunesh/guinunesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h3> ✉️ Contatos </h3>
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-nunes-332302176)
+</div><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+<strong>Cheque meus repositórios ⬇️</strong>
+</div>
