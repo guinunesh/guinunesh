@@ -9,7 +9,7 @@ trajetória profissional é um reflexo disso.
 🎓    Cursando Análise e Desenvolvimento de Sistemas;
 </p>
 <p>
-🌱   No momento estou aprendendo sobre JavaScript, HTML, CSS
+🌱   Iniciante em JavaScript, HTML, CSS
 </p>
 <p align="left">
 🔰    Analista de dados e suporte técnico.
